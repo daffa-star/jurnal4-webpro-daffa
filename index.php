@@ -41,6 +41,5 @@ $result = mysqli_query($conn, $sql);
 </html>
 
 <?php
-// Tutup koneksi
 mysqli_close($conn);
 ?>
